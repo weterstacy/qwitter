@@ -3,6 +3,7 @@ module.exports = {
   testMatch: [
     '**/test/**/*.spec.js'
   ],
+  transform: {},
   collectCoverage: false,
   coveragePathIgnorePatterns: [
     '/node_modules/'
